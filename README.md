@@ -1,86 +1,118 @@
-<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Dida Dhungana</span> 👋</h1>
+# Hi, I'm Dida Dhungana 👋
 
-<p align="center">
-  💻 C &amp; Python Programmer • 📚 Computer Science Student • 🧠 Core CS Enthusiast
-</p>
+💻 Python Programmer • 📚 Computer Science Student • 🧠 DSA & Core CS Learner
 
 ---
 
 ## 👨‍🎓 About Me
 
-- 🎓 Computer Science student with a strong focus on **programming, maths, and core CS subjects**
-- 💡 Curious about **how computers really work** – from bits &amp; bytes to OS, networks &amp; databases
-- 🌱 Currently exploring:
-  - Efficient **C/Python** coding
-  - Basics of **web development** (HTML)
-  - Writing **clean, well-documented** code
-- 🎯 Goal: Become a strong **software engineer** with solid **DSA + Core CS fundamentals**
+- 🎓 Computer Science student focused on **programming, mathematics, and core computer science**
+- 💡 Interested in understanding systems from **problem solving** to **OS, DBMS, and networks**
+- 🎯 Goal: Build strong fundamentals and become a **software engineer who can solve real-world problems**
 
 ---
 
-## 🧠 Subjects & Knowledge
+## 💻 Programming
 
-- 📘 **Engineering Mathematics**
-- 💻 **Programming:** C, Python
-- ⚡ **Basic Electronics / Computer Organization**
-- 🗣️ **Communication Skills**
-- 🔬 **Engineering Physics / Chemistry**
-- 🌳 **Data Structures**
-- 🗄️ **Database Management Systems (DBMS)**
-- 🧵 **Operating Systems**
-- 🌐 **Computer Networks**
-- ➗ **Discrete Mathematics**
-
-> **Focus:** Building a deep understanding of **core computer science concepts** along with **practical coding skills**.
+- **Python** (strong understanding)
+- **Basic C programming**
+- Writing **clean and efficient code**
+- Good understanding of **functions, loops, and OOP concepts**
 
 ---
 
-## 🛠️ Tech Stack &amp; Tools
+## 🧩 Problem Solving & DSA
 
-### 👨‍💻 Programming Languages
-
-- **C**
-- **Python**
-- **HTML**
-
-### 💾 Core CS Areas
-
-- **Data Structures &amp; Algorithms (learning & practicing)**
-- **DBMS concepts**
-- **Operating Systems basics**
-- **Computer Networks basics**
-- **Discrete Mathematics**
+- Logical thinking and structured problem solving
+- Arrays, Linked Lists
+- Stack, Queue
+- Searching & Sorting
+- Basic Trees
+- Regular coding practice on **LeetCode** and **HackerRank**
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Mathematics
 
-> _I use GitHub to track my learning journey and experiments in C, Python, and web basics._
-
-- 🔧 Practice and experiment with:
-  - Problem solving in **C / Python**
-  - Implementing **core CS concepts**
-- 📂 Repositories such as:
-  - `gitlab` – mix of **HTML**, **C**, and **Python** experiments
-  - `abc`, `xyz`, `std`, `pqr` – learning and practice code
+- Algebra
+- Calculus
+- Probability
+- Statistics
+- Matrices
 
 ---
 
-## 🚀 What I’m Working On
+## 🗄️ Database
 
-- Implementing classic **Data Structures** in C/Python (arrays, linked lists, stacks, queues, trees, graphs)
-- Building small **console-based projects** to improve logic &amp; problem solving
-- Gradually moving toward:
-  - **Competitive programming / problem solving**
-  - More **real-world projects** that use my core CS knowledge
+- SQL
+- Query writing: **SELECT, JOIN, GROUP BY**
+- Database design basics
+
+---
+
+## 🌐 Core Computer Science
+
+- Operating Systems (basics)
+- Computer Networks (basics)
+- Computer Organization
+
+---
+
+## 📊 Data Science Skills
+
+- Data cleaning
+- Data analysis
+- Data visualization
+- Working with datasets
+
+---
+
+## 🤖 Machine Learning (Basics)
+
+- Supervised learning
+- Unsupervised learning
+- Basic understanding of ML algorithms
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Git
+- GitHub
+- Jupyter Notebook
+- Python libraries: **NumPy, Pandas, Matplotlib**
+
+---
+
+## 🚀 Projects
+
+- Mini coding projects
+- Data analysis projects
+- Basic ML projects
+- **Student Marks Prediction System** (machine learning project to predict student performance from input features)
+
+---
+
+## 🗣️ Soft Skills
+
+- Communication
+- Problem-solving mindset
+- Basic teamwork
+- Presentation skills
+
+---
+
+## 🎯 Final Goal
+
+- Build real-world projects
+- Solve coding problems regularly
+- Keep improving in DSA, core CS, and applied machine learning
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: [@dida91](https://github.com/dida91)
+- GitHub: [@dida91](https://github.com/dida91)
 
 > Always open to learning, collaborating, and improving.  
 > _“Strong fundamentals build strong software.”_
-
----
