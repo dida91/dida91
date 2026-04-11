@@ -98,21 +98,6 @@ print(me.motto)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dida91&show_icons=true&theme=dark&bg_color=0a0a2e&title_color=00e5a0&icon_color=00e5a0&text_color=e8eaf2&border_color=00e5a0&border_radius=8&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dida91&layout=compact&theme=dark&bg_color=0a0a2e&title_color=00e5a0&text_color=e8eaf2&border_color=00e5a0&border_radius=8" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dida91&theme=dark&background=0a0a2e&ring=00e5a0&fire=f0a500&currStreakLabel=00e5a0&sideLabels=e8eaf2&currStreakNum=ffffff&sideNums=e8eaf2&border=00e5a0&border_radius=8" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
