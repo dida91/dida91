@@ -108,13 +108,7 @@ print(me.motto)
 
 ## 🚀 Featured Projects
 
-<div align="center">
 
-<a href="https://github.com/dida91">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dida91&repo=student-marks-prediction&theme=dark&bg_color=0a0a2e&title_color=00e5a0&icon_color=00e5a0&text_color=e8eaf2&border_color=00e5a0&border_radius=8&description_lines_count=2" />
-</a>
-
-</div>
 
 <br/>
 
