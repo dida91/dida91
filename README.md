@@ -26,7 +26,7 @@
 ```python
 class DidaDhungana:
     name       = "Dida Dhungana"
-    location   = "Kathmandu, Nepal 🇳🇵"
+    location   = "Bangalore, India"
     role       = "Computer Science Student"
     languages  = ["Python 🐍", "C", "SQL"]
     interests  = ["DSA", "Machine Learning", "Data Science", "Core CS"]
